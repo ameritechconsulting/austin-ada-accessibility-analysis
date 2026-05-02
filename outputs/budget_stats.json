@@ -1,0 +1,57 @@
+{
+  "grand_total_m": 156.6,
+  "capital_total_m": 103.6,
+  "operating_total_m": 31.4,
+  "federal_total_m": 21.6,
+  "total_segments": 9982,
+  "total_miles": 127.7,
+  "peak_fy": "FY2024",
+  "peak_spend_m": 45.8,
+  "rows": [
+    {
+      "fy": "FY2021",
+      "capital_m": 14.27,
+      "operating_m": 5.15,
+      "federal_m": 2.1,
+      "total_m": 21.52,
+      "segments": 1399,
+      "miles": 17.6
+    },
+    {
+      "fy": "FY2022",
+      "capital_m": 14.54,
+      "operating_m": 5.74,
+      "federal_m": 3.4,
+      "total_m": 23.68,
+      "segments": 1763,
+      "miles": 17.9
+    },
+    {
+      "fy": "FY2023",
+      "capital_m": 18.43,
+      "operating_m": 6.33,
+      "federal_m": 5.2,
+      "total_m": 29.96,
+      "segments": 1961,
+      "miles": 22.7
+    },
+    {
+      "fy": "FY2024",
+      "capital_m": 34.15,
+      "operating_m": 6.85,
+      "federal_m": 4.8,
+      "total_m": 45.8,
+      "segments": 3139,
+      "miles": 42.1
+    },
+    {
+      "fy": "FY2025",
+      "capital_m": 22.21,
+      "operating_m": 7.36,
+      "federal_m": 6.1,
+      "total_m": 35.67,
+      "segments": 1720,
+      "miles": 27.4
+    }
+  ]
+}
