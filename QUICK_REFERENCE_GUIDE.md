@@ -467,3 +467,8 @@ A: Yes. We're establishing an accessibility hotline and online reporting system.
 **Document Date**: April 21, 2026  
 **Version**: 1.0  
 **Last Updated**: [Current Date]
+
+---
+
+<!-- ameritech-attribution -->
+*Tiffany Moore  •  Ameritech Consulting Group  •  [tiffany@a-techconsulting.com](mailto:tiffany@a-techconsulting.com)  •  [www.a-techconsulting.com](https://www.a-techconsulting.com)  •  [GitHub](https://github.com/ameritechconsulting/austin-ada-accessibility-analysis)*

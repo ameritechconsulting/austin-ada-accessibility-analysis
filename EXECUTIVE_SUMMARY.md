@@ -212,3 +212,8 @@ Achieving ADA compliance in pedestrian crosswalks is both a **legal obligation**
 - Project Timeline (Appendix C)
 - ADA Technical Standards Reference (Appendix D)
 - Funding Opportunity Summary (Appendix E)
+
+---
+
+<!-- ameritech-attribution -->
+*Tiffany Moore  •  Ameritech Consulting Group  •  [tiffany@a-techconsulting.com](mailto:tiffany@a-techconsulting.com)  •  [www.a-techconsulting.com](https://www.a-techconsulting.com)  •  [GitHub](https://github.com/ameritechconsulting/austin-ada-accessibility-analysis)*

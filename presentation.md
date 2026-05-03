@@ -350,3 +350,8 @@
 **Presentation Prepared By**: [Department/Team Name]  
 **Date**: April 21, 2026  
 **Contact**: [Contact Information]
+
+---
+
+<!-- ameritech-attribution -->
+*Tiffany Moore  •  Ameritech Consulting Group  •  [tiffany@a-techconsulting.com](mailto:tiffany@a-techconsulting.com)  •  [www.a-techconsulting.com](https://www.a-techconsulting.com)  •  [GitHub](https://github.com/ameritechconsulting/austin-ada-accessibility-analysis)*
