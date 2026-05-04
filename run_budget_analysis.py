@@ -4,6 +4,8 @@ Fetches public data from Austin Open Data Portal and ArcGIS FeatureServer,
 then generates charts and a PDF budget report.
 """
 
+# Tiffany Moore • Ameritech Consulting Group • tiffany@a-techconsulting.com • www.a-techconsulting.com • GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git
+
 import pathlib, json, time, urllib.request, urllib.parse, math
 from datetime import datetime, timezone
 import pandas as pd

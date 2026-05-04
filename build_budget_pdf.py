@@ -55,8 +55,7 @@ def page_header_footer(canv, doc):
     canv.setFillColor(MGRAY)
     canv.setFont('Helvetica', 7)
     canv.drawString(0.5*inch, 0.17*inch,
-                    'Independent Analysis — Not a Final Audit  |  Sources: Austin Open Data Portal, '
-                    'City of Austin ArcGIS FeatureServer, TxDOT STIP public records')
+                    'Tiffany Moore  •  Ameritech Consulting Group  •  tiffany@a-techconsulting.com  •  www.a-techconsulting.com  •  GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git')
     canv.drawRightString(W - 0.5*inch, 0.17*inch,
                          f'Page {doc.page} of {TOTAL_PAGES}  |  {TODAY}')
     canv.restoreState()
@@ -459,7 +458,7 @@ disc_box = Table([[
         f'Budget figures represent estimates derived from public data sources and should be '
         f'verified against official City financial records. Cost-per-linear-foot unit rates '
         f'are based on Austin\'s published contractor bid data and TxDOT cost guidance. '
-        f'Contact: tiffany@a-techconsulting.com  ·  Generated {TODAY}',
+        f'Tiffany Moore • Ameritech Consulting Group • tiffany@a-techconsulting.com • www.a-techconsulting.com • GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git',
         ATTR
     )
 ]], colWidths=[W])

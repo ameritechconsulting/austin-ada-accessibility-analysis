@@ -75,7 +75,7 @@ def page_hf(canvas_obj, doc):
     canvas_obj.setFillColor(DGRAY)
     canvas_obj.setFont('Helvetica', 7)
     canvas_obj.drawString(0.45*inch, 0.17*inch,
-                          'Ameritech Consulting Group  |  tiffany@a-techconsulting.com  |  April 2026  |  Independent Analysis — Not a Final Audit')
+                          'Tiffany Moore  •  Ameritech Consulting Group  •  tiffany@a-techconsulting.com  •  www.a-techconsulting.com  •  GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git')
     canvas_obj.drawRightString(w - 0.45*inch, 0.17*inch, f'Page {doc.page}  |  CONFIDENTIAL')
     canvas_obj.restoreState()
 
@@ -304,8 +304,7 @@ story.append(Paragraph(
     f'<i><b>Ameritech | Ameritech Consulting Group</b> conducted an independent analysis of the City of '
     f'Austin\'s Sidewalk Infrastructure. This is not a final audit. These recommendations are based '
     f'on publicly available data and independent analysis only, and do not substitute for a licensed '
-    f'engineering assessment. Prepared by Ameritech Consulting Group · tiffany@a-techconsulting.com · '
-    f'April 2026.</i>',
+    f'engineering assessment. Tiffany Moore • Ameritech Consulting Group • tiffany@a-techconsulting.com • www.a-techconsulting.com • GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git</i>',
     S('disc', fontName='Helvetica-Oblique', fontSize=6.5, textColor=DGRAY, leading=9, alignment=TA_JUSTIFY)
 ))
 

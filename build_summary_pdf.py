@@ -66,7 +66,7 @@ def page_header_footer(canvas_obj, doc):
 
     canvas_obj.setFillColor(DGRAY)
     canvas_obj.setFont('Helvetica', 7)
-    canvas_obj.drawString(0.45*inch, 0.17*inch, 'Prepared by Ameritech Consulting Group  |  tiffany@a-techconsulting.com  |  April 2026')
+    canvas_obj.drawString(0.45*inch, 0.17*inch, 'Tiffany Moore • Ameritech Consulting Group • tiffany@a-techconsulting.com • www.a-techconsulting.com • GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git')
     canvas_obj.drawRightString(w - 0.45*inch, 0.17*inch, f'Page {doc.page} of 4  |  CONFIDENTIAL')
 
     canvas_obj.restoreState()
@@ -146,8 +146,8 @@ def cover_page(canvas_obj, doc):
     canvas_obj.setFillColor(WHITE)
     canvas_obj.setFont('Helvetica-Bold', 8)
     canvas_obj.drawString(0.45*inch, 0.30*inch, 'AMERITECH CONSULTING GROUP')
-    canvas_obj.setFont('Helvetica', 8)
-    canvas_obj.drawRightString(w - 0.45*inch, 0.30*inch, 'tiffany@a-techconsulting.com  |  Confidential')
+    canvas_obj.setFont('Helvetica', 6.5)
+    canvas_obj.drawRightString(w - 0.45*inch, 0.30*inch, 'Tiffany Moore  •  Ameritech Consulting Group  •  tiffany@a-techconsulting.com  •  www.a-techconsulting.com  •  GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git')
     canvas_obj.setFillColor(TEAL)
     canvas_obj.setFont('Helvetica', 7)
     canvas_obj.drawCentredString(w/2, 0.13*inch, 'Independent Analysis by Ameritech Consulting Group · Not a Final Audit · Data: Austin Open Data Portal · U.S. Census ACS 2022')
@@ -597,7 +597,7 @@ story.append(Paragraph(
     f'<i><b>Ameritech | Ameritech Consulting Group</b> conducted an independent analysis of the City of Austin\'s '
     f'Sidewalk Infrastructure. This is not a final audit. For strategic recommendations and the 5-year '
     f'financial summary, see the companion document: <b>Ameritech Recommendations</b>. '
-    f'Prepared by Ameritech Consulting Group · tiffany@a-techconsulting.com · April 2026. '
+    f'Tiffany Moore • Ameritech Consulting Group • tiffany@a-techconsulting.com • www.a-techconsulting.com • GitHub: https://github.com/ameritechconsulting/austin-ada-accessibility-analysis.git '
     f'Data sources: City of Austin Open Data Portal (datasets vchz-d9ng, p53x-x73x, xwdj-i9he), '
     f'ArcGIS FeatureServer (TRANSPORTATION_curb_ramps, AISD_Schools, EXTERNAL_cmta_stops, Council_Districts), '
     f'U.S. Census Bureau ACS 5-Year Estimates 2022 (Travis County, TX).</i>',
